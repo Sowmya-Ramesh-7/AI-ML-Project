@@ -1,0 +1,3 @@
+Multiple linear regression (MLR) is a statistical technique that uses several explanatory variables to predict the outcome of a response variable.
+
+The dataset used is the youtube t-series.An 82% R2 score indicates a reasonably good fit of MLR model to the data, that is significant portion of the variation in comment counts can be explained by the selected independent variables. Additionally, the accuracy of model can be assessed using cross validation, because there may be other unmeasured factors that influence comment counts on YouTube videos. 
